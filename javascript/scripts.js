@@ -1,5 +1,5 @@
 function drawTree(h){
-  functionName(drawTree);
+drawTree();
   for( var i = 0; i < h; i++){
     var star = "";
   
